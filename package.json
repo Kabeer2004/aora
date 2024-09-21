@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-av": "^14.0.7",
+    "react-native-animatable": "^1.4.0"
+  }
+}
